@@ -1,2 +1,0 @@
-# crome-extension
-new repository
